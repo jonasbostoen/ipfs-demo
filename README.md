@@ -22,10 +22,10 @@ Start by initializing your node, this will create a key-pair and a repository wi
 $ ipfs init
 ```
 
-You now have your peer identity on the IPFS network. Use:
+You now have your peer identity on the IPFS network. Use the provided command to look at the readme:
 
 ```
-$ ipfs cat /ipfs/<your identity>/readme
+$ ipfs cat /ipfs/<given hash>/readme
 ```
 You should see this:
 ```
