@@ -114,5 +114,6 @@ Navigate through the web-app to see some cool stuff like your connections all ar
 Additional Material:
 - Theoretical introduction: https://www.youtube.com/watch?v=5Uj6uR3fp-U
 - Extensive theoretical exploration by founder Juan Benet: https://www.youtube.com/watch?v=HUVmypx9HGI
+
 Also check out the whitepaper that I've put on IPFS:
 - https://gateway.ipfs.io/ipfs/QmV9tSDx9UiPeWExXEeH6aoDvmihvx6jD5eLb4jbTaKGps
